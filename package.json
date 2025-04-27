@@ -8,8 +8,12 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "body-parser": "^2.2.0",
     "bootstrap": "^5.3.5",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
     "gh-pages": "^6.3.0",
+    "mysql2": "^3.14.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.5.2",
@@ -41,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
